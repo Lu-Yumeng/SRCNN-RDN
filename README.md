@@ -22,4 +22,4 @@ In this project, we implement two supervised CNN structures to solve the super-r
 ## Results 
 Simulation results show that our SRCNN, SRCNN+BN and RDN models all improve the quality of output images. Among them, SRCNN has the best PSNR and SSIM performance, but RDN has great potential to achieve greater performance by increasing the number of training epoches and the size of training set.
 
-## [Link to Code Reference] (https://github.com/yjn870/RDN-pytorch)
+## [Link to Code Reference](https://github.com/yjn870/RDN-pytorch)
